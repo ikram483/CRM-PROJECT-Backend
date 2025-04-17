@@ -1,0 +1,19 @@
+# Dépendances
+/node_modules
+/vendor
+
+# Fichiers de build
+/build
+/dist
+
+# Fichiers d'environnement
+.env
+.env.local
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
